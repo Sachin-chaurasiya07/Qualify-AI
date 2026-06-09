@@ -11,7 +11,7 @@ import InterviewHistory from "./pages/InterviewHistory.jsx"
 import Pricing from "./pages/Pricing.jsx"
 import InterviewReport from "./pages/InterviewReport.jsx"
 
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://qualify-ai.onrender.com"
 
 function App(){
   const dispatch = useDispatch()
