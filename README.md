@@ -1,6 +1,6 @@
 An AI-powered mock interview platform that analyzes your resume, generates role-specific interview questions, evaluates your answers in real-time, and delivers detailed performance reports — all in one place.
 
-Live Link : qualify-ai-client.onrender.com/
+Live Link : [qualify-ai-client.onrender.com/](https://qualify-ai-client.onrender.com/)
 
 ## ✨ Features
 
